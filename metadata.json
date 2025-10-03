@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Nano Banana Image Studio",
+  "description": "An advanced AI-powered web application for generating, editing, and merging images using the Gemini 'nano-banana' model. Features a bilingual interface (English/Arabic), secure Google account login, and a dynamic, futuristic visual design. Users can input prompts, upload images, and select aspect ratios to create ultra-realistic 8K images with cinematic lighting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
